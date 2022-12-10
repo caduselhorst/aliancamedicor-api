@@ -1,0 +1,1 @@
+alter table tbpessoa modify nome_social varchar(145);
